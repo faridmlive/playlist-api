@@ -1,15 +1,15 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "",
-    "last update time": "05:07:27 AM 23-10-2025",
+    "last update time": "05:26:17 AM 23-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
-            "match_title": "Adelaide Strikers Women vs ACT Meteors (T20 Spring Challenge, 2025)",
+            "match_title": "ACT Meteors vs Adelaide Strikers Women (T20 Spring Challenge, 2025)",
             "logo": "https://www.fancode.com/skillup-uploads/cms-media/133999_5608_AS-W_ACTM_FC-Web.jpg",
             "match_status": "LIVE",
             "event_name": "T20 Spring Challenge, 2025",
-            "match_name": "Adelaide Strikers Women vs ACT Meteors",
+            "match_name": "ACT Meteors vs Adelaide Strikers Women",
             "match_id": "133999",
             "startTime": "05:00:00 AM 23-10-2025",
             "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/133999_english_hls_c007f1685a68140ta-di_h264/index.m3u8"
