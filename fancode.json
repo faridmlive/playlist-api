@@ -1,8 +1,19 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "",
-    "last update time": "04:37:30 AM 23-10-2025",
+    "last update time": "04:49:25 AM 23-10-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "match_title": "Adelaide Strikers Women vs ACT Meteors (T20 Spring Challenge, 2025)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/133999_5608_AS-W_ACTM_FC-Web.jpg",
+            "match_status": "LIVE",
+            "event_name": "T20 Spring Challenge, 2025",
+            "match_name": "Adelaide Strikers Women vs ACT Meteors",
+            "match_id": "133999",
+            "startTime": "05:00:00 AM 23-10-2025",
+            "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/133999_english_hls_c007f1685a68140ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "match_title": "New Zealand vs England (England tour of New Zealand, 2025)",
@@ -22,16 +33,6 @@
             "match_name": "Bangladesh vs West Indies",
             "match_id": "137702",
             "startTime": "01:30:00 PM 23-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "match_title": "Adelaide Strikers Women vs ACT Meteors (T20 Spring Challenge, 2025)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/133999_5608_AS-W_ACTM_FC-Web.jpg",
-            "match_status": "UPCOMING",
-            "event_name": "T20 Spring Challenge, 2025",
-            "match_name": "Adelaide Strikers Women vs ACT Meteors",
-            "match_id": "133999",
-            "startTime": "05:00:00 AM 23-10-2025"
         },
         {
             "event_category": "Cricket",
