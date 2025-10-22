@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "",
-    "last update time": "01:41:49 AM 23-10-2025",
+    "last update time": "01:56:43 AM 23-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -339,7 +339,7 @@
         {
             "event_category": "Football",
             "match_title": "Huesca vs Las Palmas (LALIGA Hypermotion 2025-26)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "logo": "https://images.fancode.com/aig/match/v1/137610_CASACARDS_APP.png",
             "match_status": "UPCOMING",
             "event_name": "LALIGA Hypermotion 2025-26",
             "match_name": "Huesca vs Las Palmas",
