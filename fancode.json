@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "",
-    "last update time": "10:56:25 PM 22-10-2025",
+    "last update time": "11:22:26 PM 22-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -238,23 +238,13 @@
         },
         {
             "event_category": "Golf",
-            "match_title": "Day 1 - Main Feed vs Black Desert Resort (Bank of Utah Championship)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
-            "match_status": "UPCOMING",
-            "event_name": "Bank of Utah Championship",
-            "match_name": "Day 1 - Main Feed vs Black Desert Resort",
-            "match_id": "137316",
-            "startTime": "07:00:00 PM 23-10-2025"
-        },
-        {
-            "event_category": "Golf",
             "match_title": "Day 1 - Featured Groups vs Black Desert Resort (Bank of Utah Championship)",
             "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
             "match_status": "UPCOMING",
             "event_name": "Bank of Utah Championship",
             "match_name": "Day 1 - Featured Groups vs Black Desert Resort",
             "match_id": "137315",
-            "startTime": "07:00:00 PM 23-10-2025"
+            "startTime": "07:45:00 PM 23-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -265,6 +255,16 @@
             "match_name": "Melbourne Stars Women vs Hobart Hurricanes Women",
             "match_id": "134001",
             "startTime": "05:00:00 AM 24-10-2025"
+        },
+        {
+            "event_category": "Golf",
+            "match_title": "Day 1 - Main Feed vs Black Desert Resort (Bank of Utah Championship)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
+            "match_status": "UPCOMING",
+            "event_name": "Bank of Utah Championship",
+            "match_name": "Day 1 - Main Feed vs Black Desert Resort",
+            "match_id": "137316",
+            "startTime": "03:00:00 AM 24-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -327,26 +327,6 @@
             "startTime": "10:00:00 PM 24-10-2025"
         },
         {
-            "event_category": "Golf",
-            "match_title": "Day 2 - Featured Groups vs Black Desert Resort (Bank of Utah Championship)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
-            "match_status": "UPCOMING",
-            "event_name": "Bank of Utah Championship",
-            "match_name": "Day 2 - Featured Groups vs Black Desert Resort",
-            "match_id": "137318",
-            "startTime": "07:00:00 PM 24-10-2025"
-        },
-        {
-            "event_category": "Golf",
-            "match_title": "Day 2 - Main Feed vs Black Desert Resort (Bank of Utah Championship)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
-            "match_status": "UPCOMING",
-            "event_name": "Bank of Utah Championship",
-            "match_name": "Day 2 - Main Feed vs Black Desert Resort",
-            "match_id": "137317",
-            "startTime": "07:00:00 PM 24-10-2025"
-        },
-        {
             "event_category": "Football",
             "match_title": "Al-Ittihad vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
             "logo": "https://www.fancode.com/skillup-uploads/cms-media/136609_5655_ITT_AHS_fc-web.jpg",
@@ -355,6 +335,16 @@
             "match_name": "Al-Ittihad vs Al Hilal SFC",
             "match_id": "136609",
             "startTime": "12:00:00 AM 25-10-2025"
+        },
+        {
+            "event_category": "Golf",
+            "match_title": "Day 2 - Featured Groups vs Black Desert Resort (Bank of Utah Championship)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
+            "match_status": "UPCOMING",
+            "event_name": "Bank of Utah Championship",
+            "match_name": "Day 2 - Featured Groups vs Black Desert Resort",
+            "match_id": "137318",
+            "startTime": "07:45:00 PM 24-10-2025"
         },
         {
             "event_category": "Football",
@@ -375,6 +365,16 @@
             "match_name": "Preston North End F.C. vs Sheffield United F.C.",
             "match_id": "136955",
             "startTime": "01:00:00 AM 25-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "match_title": "Huesca vs Las Palmas (LALIGA Hypermotion 2025-26)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "match_status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Huesca vs Las Palmas",
+            "match_id": "137610",
+            "startTime": "12:30:00 AM 25-10-2025"
         }
     ]
 }
