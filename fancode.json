@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "",
-    "last update time": "03:56:42 PM 23-10-2025",
+    "last update time": "04:28:45 PM 23-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,31 +18,34 @@
             "event_category": "Football",
             "match_title": "Kaya vs BG Pathum United (AFC Champions League Two 2025-26)",
             "logo": "https://www.fancode.com/skillup-uploads/cms-media/136180_5648_KAYA_PNU_fc-Web_1758118382756.jpg",
-            "match_status": "UPCOMING",
+            "match_status": "LIVE",
             "event_name": "AFC Champions League Two 2025-26",
             "match_name": "Kaya vs BG Pathum United",
             "match_id": "136180",
-            "startTime": "04:00:00 PM 23-10-2025"
+            "startTime": "04:00:00 PM 23-10-2025",
+            "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/136180_english_hls_d549e5ecc234893ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
             "match_title": "Tampines Rovers FC vs Pohang Steelers (AFC Champions League Two 2025-26)",
             "logo": "https://www.fancode.com/skillup-uploads/cms-media/136179_5648_TAM_PHG_fc-Web_1758118382987.jpg",
-            "match_status": "UPCOMING",
+            "match_status": "LIVE",
             "event_name": "AFC Champions League Two 2025-26",
             "match_name": "Tampines Rovers FC vs Pohang Steelers",
             "match_id": "136179",
-            "startTime": "04:00:00 PM 23-10-2025"
+            "startTime": "04:00:00 PM 23-10-2025",
+            "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/136179_english_hls_30a21faeb458475ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
             "match_title": "Wofoo Tai Po vs Beijing Guoan (AFC Champions League Two 2025-26)",
             "logo": "https://www.fancode.com/skillup-uploads/cms-media/136143_5648_WTP_BEI_fc-Web_1758118382736.jpg",
-            "match_status": "UPCOMING",
+            "match_status": "LIVE",
             "event_name": "AFC Champions League Two 2025-26",
             "match_name": "Wofoo Tai Po vs Beijing Guoan",
             "match_id": "136143",
-            "startTime": "04:00:00 PM 23-10-2025"
+            "startTime": "04:00:00 PM 23-10-2025",
+            "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/136143_english_hls_9d740b943f96558ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
