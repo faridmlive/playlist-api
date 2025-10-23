@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="Fancode-Cricket" tvg-id="134000" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134000_5608_PS-W_BH-W_FC-Web.jpg", Perth Scorchers Women vs Brisbane Heat Women
-https://bd-mc-fdlive.fancode.com/mumbai/134000_english_hls_192207947224402ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Fancode-Golf" tvg-id="136867" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championsip_Old_match-card.jpg", Day 1 vs Jack Nicklaus Golf Club
 https://bd-mc-fdlive.fancode.com/mumbai/136867_english_hls_411a53012c16475ta-di_h264/index.m3u8
-#EXTINF:-1 group-title="Fancode-Golf" tvg-id="137366" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-old-match-card.jpg", Day 1 vs Sunrise Golf and Country Club
-https://bd-mc-fdlive.fancode.com/mumbai/137366_english_hls_308e938f251404ta-di_h264/index.m3u8
