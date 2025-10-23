@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "",
-    "last update time": "08:34:23 PM 23-10-2025",
+    "last update time": "08:48:59 PM 23-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -13,39 +13,6 @@
             "match_id": "137509",
             "startTime": "07:30:00 PM 23-10-2025",
             "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/137509_english_hls_aa7f4715e757525ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "match_title": "Persib Bandung vs Selangor (AFC Champions League Two 2025-26)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/136168_5648_PER_SEL_fc-Web_1758118383088.jpg",
-            "match_status": "LIVE",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Persib Bandung vs Selangor",
-            "match_id": "136168",
-            "startTime": "06:15:00 PM 23-10-2025",
-            "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/136168_english_hls_8250d8ff7e25823ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "match_title": "Bangkok United vs Lion City Sailors (AFC Champions League Two 2025-26)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/136167_5648_BU_LIO_fc-Web_1758118383570.jpg",
-            "match_status": "LIVE",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Bangkok United vs Lion City Sailors",
-            "match_id": "136167",
-            "startTime": "06:15:00 PM 23-10-2025",
-            "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/136167_english_hls_8a6d464f0f47948ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "match_title": "Cong An Ha Noi vs Macarthur (AFC Champions League Two 2025-26)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/136144_5648_CAH_MAC_fc-Web_1758118382875.jpg",
-            "match_status": "LIVE",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Cong An Ha Noi vs Macarthur",
-            "match_id": "136144",
-            "startTime": "06:15:00 PM 23-10-2025",
-            "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/136144_english_hls_58a8d8376295505ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -367,6 +334,26 @@
             "match_name": "West Coast Blues vs Paarl Rapids",
             "match_id": "137724",
             "startTime": "05:00:00 PM 25-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "match_title": "Girona FC vs Real Oviedo (LALIGA 2025-26)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/130920_5427_GIR_RO_fc-Web.jpg",
+            "match_status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Girona FC vs Real Oviedo",
+            "match_id": "130920",
+            "startTime": "06:00:00 PM 25-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "match_title": "Northern Raiders vs Wellington Wolves (Boland T10, 2025)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/137725_5728_NTR_WEW_fc-web.jpg",
+            "match_status": "UPCOMING",
+            "event_name": "Boland T10, 2025",
+            "match_name": "Northern Raiders vs Wellington Wolves",
+            "match_id": "137725",
+            "startTime": "07:30:00 PM 25-10-2025"
         }
     ]
 }
