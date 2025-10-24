@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "",
-    "last update time": "04:58:28 PM 24-10-2025",
+    "last update time": "05:21:21 PM 24-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -145,6 +145,16 @@
         },
         {
             "event_category": "Cricket",
+            "match_title": "Uri Panther vs Gulmarg Royal (Indian Heaven Premier League, 2025)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "match_status": "UPCOMING",
+            "event_name": "Indian Heaven Premier League, 2025",
+            "match_name": "Uri Panther vs Gulmarg Royal",
+            "match_id": "137858",
+            "startTime": "04:30:00 PM 25-10-2025"
+        },
+        {
+            "event_category": "Cricket",
             "match_title": "Northern Raiders vs Wellington Wolves (Boland T10, 2025)",
             "logo": "https://www.fancode.com/skillup-uploads/cms-media/137725_5728_NTR_WEW_fc-web.jpg",
             "match_status": "UPCOMING",
@@ -174,6 +184,16 @@
             "startTime": "12:30:00 AM 25-10-2025"
         },
         {
+            "event_category": "Football",
+            "match_title": "Blackburn Rovers F.C. vs Southampton F.C. (EFL Championship 2025-26)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/136954_5489_BLK_SOU_fc-web.jpg",
+            "match_status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Blackburn Rovers F.C. vs Southampton F.C.",
+            "match_id": "136954",
+            "startTime": "08:00:00 PM 25-10-2025"
+        },
+        {
             "event_category": "Golf",
             "match_title": "Day 2 - World Feed vs Black Desert Resort (Bank of Utah Championship)",
             "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
@@ -195,13 +215,13 @@
         },
         {
             "event_category": "Football",
-            "match_title": "Blackburn Rovers F.C. vs Southampton F.C. (EFL Championship 2025-26)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/136954_5489_BLK_SOU_fc-web.jpg",
+            "match_title": "RCD Espanyol vs Elche CF (LALIGA 2025-26)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/130927_5427_ESL_ELC_fc-Web.jpg",
             "match_status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Blackburn Rovers F.C. vs Southampton F.C.",
-            "match_id": "136954",
-            "startTime": "08:00:00 PM 25-10-2025"
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RCD Espanyol vs Elche CF",
+            "match_id": "130927",
+            "startTime": "08:15:00 PM 25-10-2025"
         },
         {
             "event_category": "Baseball",
@@ -222,16 +242,6 @@
             "match_name": "Day 2 vs Petronas Sepang International Circuit",
             "match_id": "119264",
             "startTime": "06:40:00 AM 25-10-2025"
-        },
-        {
-            "event_category": "Football",
-            "match_title": "RCD Espanyol vs Elche CF (LALIGA 2025-26)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/130927_5427_ESL_ELC_fc-Web.jpg",
-            "match_status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "RCD Espanyol vs Elche CF",
-            "match_id": "130927",
-            "startTime": "08:15:00 PM 25-10-2025"
         },
         {
             "event_category": "Golf",
@@ -362,16 +372,6 @@
             "match_name": "Qualifying vs Mexico",
             "match_id": "118479",
             "startTime": "03:00:00 AM 26-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "match_title": "Sydney Sixers Women vs Melbourne Renegades Women (T20 Spring Challenge, 2025)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/134008_5608_SS-W_MR-W_FC-Web.jpg",
-            "match_status": "UPCOMING",
-            "event_name": "T20 Spring Challenge, 2025",
-            "match_name": "Sydney Sixers Women vs Melbourne Renegades Women",
-            "match_id": "134008",
-            "startTime": "09:30:00 AM 26-10-2025"
         }
     ]
 }
