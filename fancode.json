@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "",
-    "last update time": "11:54:46 PM 24-10-2025",
+    "last update time": "12:13:02 AM 25-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -13,17 +13,6 @@
             "match_id": "137511",
             "startTime": "09:30:00 PM 24-10-2025",
             "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/137511_english_hls_0e172242f751680ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "match_title": "Stellenbosch Kings vs Northern Raiders (Boland T10, 2025)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/137722_5728_NTR_SK_fc-web.jpg",
-            "match_status": "LIVE",
-            "event_name": "Boland T10, 2025",
-            "match_name": "Stellenbosch Kings vs Northern Raiders",
-            "match_id": "137722",
-            "startTime": "10:00:00 PM 24-10-2025",
-            "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/137722_english_hls_bdacef495574281ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -48,24 +37,14 @@
             "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/137318_english_hls_1778e4abcc97607ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "match_title": "Huesca vs Las Palmas (LALIGA Hypermotion 2025-26)",
-            "logo": "https://images.fancode.com/aig/match/v1/137610_CASACARDS_APP.png",
-            "match_status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Huesca vs Las Palmas",
-            "match_id": "137610",
+            "event_category": "Formula 1",
+            "match_title": "Practice 1 vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png",
+            "match_status": "LIVE",
+            "event_name": "F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025",
+            "match_name": "Practice 1 vs Mexico",
+            "match_id": "118476",
             "startTime": "12:30:00 AM 25-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "match_title": "Brisbane Heat Women vs Melbourne Stars Women (T20 Spring Challenge, 2025)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/134003_5608_BH-W_MS-W_FC-Web.jpg",
-            "match_status": "UPCOMING",
-            "event_name": "T20 Spring Challenge, 2025",
-            "match_name": "Brisbane Heat Women vs Melbourne Stars Women",
-            "match_id": "134003",
-            "startTime": "05:00:00 AM 25-10-2025"
         },
         {
             "event_category": "Football",
@@ -86,6 +65,26 @@
             "match_name": "Preston North End F.C. vs Sheffield United F.C.",
             "match_id": "136955",
             "startTime": "01:00:00 AM 25-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "match_title": "Huesca vs Las Palmas (LALIGA Hypermotion 2025-26)",
+            "logo": "https://images.fancode.com/aig/match/v1/137610_CASACARDS_APP.png",
+            "match_status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Huesca vs Las Palmas",
+            "match_id": "137610",
+            "startTime": "12:30:00 AM 25-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "match_title": "Brisbane Heat Women vs Melbourne Stars Women (T20 Spring Challenge, 2025)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/134003_5608_BH-W_MS-W_FC-Web.jpg",
+            "match_status": "UPCOMING",
+            "event_name": "T20 Spring Challenge, 2025",
+            "match_name": "Brisbane Heat Women vs Melbourne Stars Women",
+            "match_id": "134003",
+            "startTime": "05:00:00 AM 25-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -169,16 +168,6 @@
         },
         {
             "event_category": "Football",
-            "match_title": "Cerezo Osaka vs Kawasaki Frontale (J League 2025)",
-            "logo": "https://images.fancode.com/aig/match/v1/137015_CASACARDS_APP.png",
-            "match_status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Cerezo Osaka vs Kawasaki Frontale",
-            "match_id": "137015",
-            "startTime": "12:00:00 PM 25-10-2025"
-        },
-        {
-            "event_category": "Football",
             "match_title": "Blackburn Rovers F.C. vs Southampton F.C. (EFL Championship 2025-26)",
             "logo": "https://www.fancode.com/skillup-uploads/cms-media/136954_5489_BLK_SOU_fc-web.jpg",
             "match_status": "UPCOMING",
@@ -189,6 +178,16 @@
         },
         {
             "event_category": "Football",
+            "match_title": "Cerezo Osaka vs Kawasaki Frontale (J League 2025)",
+            "logo": "https://images.fancode.com/aig/match/v1/137015_CASACARDS_APP.png",
+            "match_status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Cerezo Osaka vs Kawasaki Frontale",
+            "match_id": "137015",
+            "startTime": "12:00:00 PM 25-10-2025"
+        },
+        {
+            "event_category": "Football",
             "match_title": "RCD Espanyol vs Elche CF (LALIGA 2025-26)",
             "logo": "https://www.fancode.com/skillup-uploads/cms-media/130927_5427_ESL_ELC_fc-Web.jpg",
             "match_status": "UPCOMING",
@@ -196,16 +195,6 @@
             "match_name": "RCD Espanyol vs Elche CF",
             "match_id": "130927",
             "startTime": "08:15:00 PM 25-10-2025"
-        },
-        {
-            "event_category": "Formula 1",
-            "match_title": "Practice 1 vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png",
-            "match_status": "UPCOMING",
-            "event_name": "F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025",
-            "match_name": "Practice 1 vs Mexico",
-            "match_id": "118476",
-            "startTime": "12:30:00 AM 25-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -386,6 +375,16 @@
             "match_name": "Nepal vs USA",
             "match_id": "137251",
             "startTime": "11:30:00 AM 26-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "match_title": "Sydney Sixers Women vs Melbourne Renegades Women (T20 Spring Challenge, 2025)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/134008_5608_SS-W_MR-W_FC-Web.jpg",
+            "match_status": "UPCOMING",
+            "event_name": "T20 Spring Challenge, 2025",
+            "match_name": "Sydney Sixers Women vs Melbourne Renegades Women",
+            "match_id": "134008",
+            "startTime": "09:30:00 AM 26-10-2025"
         }
     ]
 }
