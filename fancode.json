@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "",
-    "last update time": "09:44:55 PM 24-10-2025",
+    "last update time": "09:56:46 PM 24-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,6 +15,17 @@
             "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/137511_english_hls_0e172242f751680ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "match_title": "Northern Raiders vs Stellenbosch Kings (Boland T10, 2025)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/137722_5728_NTR_SK_fc-web.jpg",
+            "match_status": "LIVE",
+            "event_name": "Boland T10, 2025",
+            "match_name": "Northern Raiders vs Stellenbosch Kings",
+            "match_id": "137722",
+            "startTime": "10:00:00 PM 24-10-2025",
+            "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/137722_english_hls_bdacef495574281ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "match_title": "Day 2 - Featured Groups vs Black Desert Resort (Bank of Utah Championship)",
             "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
@@ -24,16 +35,6 @@
             "match_id": "137318",
             "startTime": "08:00:00 PM 24-10-2025",
             "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/137318_english_hls_1778e4abcc97607ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "match_title": "Northern Raiders vs Stellenbosch Kings (Boland T10, 2025)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/137722_5728_NTR_SK_fc-web.jpg",
-            "match_status": "UPCOMING",
-            "event_name": "Boland T10, 2025",
-            "match_name": "Northern Raiders vs Stellenbosch Kings",
-            "match_id": "137722",
-            "startTime": "10:00:00 PM 24-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -106,6 +107,16 @@
             "startTime": "04:30:00 PM 25-10-2025"
         },
         {
+            "event_category": "Cricket",
+            "match_title": "West Coast Blues vs Paarl Rapids (Boland T10, 2025)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/137724_5728_WCB_PR_fc-web.jpg",
+            "match_status": "UPCOMING",
+            "event_name": "Boland T10, 2025",
+            "match_name": "West Coast Blues vs Paarl Rapids",
+            "match_id": "137724",
+            "startTime": "05:00:00 PM 25-10-2025"
+        },
+        {
             "event_category": "Football",
             "match_title": "Huesca vs Las Palmas (LALIGA Hypermotion 2025-26)",
             "logo": "https://images.fancode.com/aig/match/v1/137610_CASACARDS_APP.png",
@@ -116,14 +127,14 @@
             "startTime": "12:30:00 AM 25-10-2025"
         },
         {
-            "event_category": "Cricket",
-            "match_title": "West Coast Blues vs Paarl Rapids (Boland T10, 2025)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/137724_5728_WCB_PR_fc-web.jpg",
+            "event_category": "Football",
+            "match_title": "Girona FC vs Real Oviedo (LALIGA 2025-26)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/130920_5427_GIR_RO_fc-Web.jpg",
             "match_status": "UPCOMING",
-            "event_name": "Boland T10, 2025",
-            "match_name": "West Coast Blues vs Paarl Rapids",
-            "match_id": "137724",
-            "startTime": "05:00:00 PM 25-10-2025"
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Girona FC vs Real Oviedo",
+            "match_id": "130920",
+            "startTime": "06:00:00 PM 25-10-2025"
         },
         {
             "event_category": "Football",
@@ -144,16 +155,6 @@
             "match_name": "Urawa Red Diamonds vs Machida Zelvia",
             "match_id": "137012",
             "startTime": "11:00:00 AM 25-10-2025"
-        },
-        {
-            "event_category": "Football",
-            "match_title": "Girona FC vs Real Oviedo (LALIGA 2025-26)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/130920_5427_GIR_RO_fc-Web.jpg",
-            "match_status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Girona FC vs Real Oviedo",
-            "match_id": "130920",
-            "startTime": "06:00:00 PM 25-10-2025"
         },
         {
             "event_category": "Football",
@@ -276,16 +277,6 @@
             "startTime": "06:40:00 AM 25-10-2025"
         },
         {
-            "event_category": "Golf",
-            "match_title": "Day 3 vs Jack Nicklaus Golf Club (Genesis Championship)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championsip_Old_match-card.jpg",
-            "match_status": "UPCOMING",
-            "event_name": "Genesis Championship",
-            "match_name": "Day 3 vs Jack Nicklaus Golf Club",
-            "match_id": "136869",
-            "startTime": "09:30:00 AM 25-10-2025"
-        },
-        {
             "event_category": "Football",
             "match_title": "Granada vs C\u00e1diz (LALIGA Hypermotion 2025-26)",
             "logo": "https://images.fancode.com/aig/match/v1/137611_CASACARDS_APP.png",
@@ -297,13 +288,13 @@
         },
         {
             "event_category": "Golf",
-            "match_title": "Day 2 vs Sunrise Golf and Country Club (Wistron Ladies Open)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-old-match-card.jpg",
+            "match_title": "Day 3 vs Jack Nicklaus Golf Club (Genesis Championship)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championsip_Old_match-card.jpg",
             "match_status": "UPCOMING",
-            "event_name": "Wistron Ladies Open",
-            "match_name": "Day 2 vs Sunrise Golf and Country Club",
-            "match_id": "137368",
-            "startTime": "12:00:00 PM 25-10-2025"
+            "event_name": "Genesis Championship",
+            "match_name": "Day 3 vs Jack Nicklaus Golf Club",
+            "match_id": "136869",
+            "startTime": "09:30:00 AM 25-10-2025"
         },
         {
             "event_category": "Football",
@@ -314,6 +305,16 @@
             "match_name": "Valencia CF vs Villarreal CF",
             "match_id": "130922",
             "startTime": "01:00:00 AM 26-10-2025"
+        },
+        {
+            "event_category": "Golf",
+            "match_title": "Day 2 vs Sunrise Golf and Country Club (Wistron Ladies Open)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-old-match-card.jpg",
+            "match_status": "UPCOMING",
+            "event_name": "Wistron Ladies Open",
+            "match_name": "Day 2 vs Sunrise Golf and Country Club",
+            "match_id": "137368",
+            "startTime": "12:00:00 PM 25-10-2025"
         },
         {
             "event_category": "Cricket",
