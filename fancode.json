@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "",
-    "last update time": "07:34:53 PM 24-10-2025",
+    "last update time": "07:47:40 PM 24-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -34,6 +34,16 @@
             "startTime": "12:00:00 AM 25-10-2025"
         },
         {
+            "event_category": "Cricket",
+            "match_title": "Brisbane Heat Women vs Melbourne Stars Women (T20 Spring Challenge, 2025)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/134003_5608_BH-W_MS-W_FC-Web.jpg",
+            "match_status": "UPCOMING",
+            "event_name": "T20 Spring Challenge, 2025",
+            "match_name": "Brisbane Heat Women vs Melbourne Stars Women",
+            "match_id": "134003",
+            "startTime": "05:00:00 AM 25-10-2025"
+        },
+        {
             "event_category": "Football",
             "match_title": "Real Sociedad vs Sevilla FC (LALIGA 2025-26)",
             "logo": "https://www.fancode.com/skillup-uploads/cms-media/130921_5427_RS_SEV_fc-Web.jpg",
@@ -52,16 +62,6 @@
             "match_name": "Preston North End F.C. vs Sheffield United F.C.",
             "match_id": "136955",
             "startTime": "01:00:00 AM 25-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "match_title": "Brisbane Heat Women vs Melbourne Stars Women (T20 Spring Challenge, 2025)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/134003_5608_BH-W_MS-W_FC-Web.jpg",
-            "match_status": "UPCOMING",
-            "event_name": "T20 Spring Challenge, 2025",
-            "match_name": "Brisbane Heat Women vs Melbourne Stars Women",
-            "match_id": "134003",
-            "startTime": "05:00:00 AM 25-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -94,6 +94,16 @@
             "startTime": "12:30:00 AM 25-10-2025"
         },
         {
+            "event_category": "Cricket",
+            "match_title": "Uri Panthers vs Gulmarg Royal (Indian Heaven Premier League, 2025)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "match_status": "UPCOMING",
+            "event_name": "Indian Heaven Premier League, 2025",
+            "match_name": "Uri Panthers vs Gulmarg Royal",
+            "match_id": "137858",
+            "startTime": "04:30:00 PM 25-10-2025"
+        },
+        {
             "event_category": "Golf",
             "match_title": "Day 2 - Featured Groups vs Black Desert Resort (Bank of Utah Championship)",
             "logo": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
@@ -105,13 +115,13 @@
         },
         {
             "event_category": "Cricket",
-            "match_title": "Uri Panthers vs Gulmarg Royal (Indian Heaven Premier League, 2025)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "match_title": "West Coast Blues vs Paarl Rapids (Boland T10, 2025)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/137724_5728_WCB_PR_fc-web.jpg",
             "match_status": "UPCOMING",
-            "event_name": "Indian Heaven Premier League, 2025",
-            "match_name": "Uri Panthers vs Gulmarg Royal",
-            "match_id": "137858",
-            "startTime": "04:30:00 PM 25-10-2025"
+            "event_name": "Boland T10, 2025",
+            "match_name": "West Coast Blues vs Paarl Rapids",
+            "match_id": "137724",
+            "startTime": "05:00:00 PM 25-10-2025"
         },
         {
             "event_category": "Football",
@@ -132,16 +142,6 @@
             "match_name": "Urawa Red Diamonds vs Machida Zelvia",
             "match_id": "137012",
             "startTime": "11:00:00 AM 25-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "match_title": "West Coast Blues vs Paarl Rapids (Boland T10, 2025)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/137724_5728_WCB_PR_fc-web.jpg",
-            "match_status": "UPCOMING",
-            "event_name": "Boland T10, 2025",
-            "match_name": "West Coast Blues vs Paarl Rapids",
-            "match_id": "137724",
-            "startTime": "05:00:00 PM 25-10-2025"
         },
         {
             "event_category": "Football",
@@ -234,6 +234,16 @@
             "startTime": "04:00:00 AM 25-10-2025"
         },
         {
+            "event_category": "Football",
+            "match_title": "Athletic Club vs Getafe CF (LALIGA 2025-26)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/130929_5427_ATH_GEF_fc-Web.jpg",
+            "match_status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Athletic Club vs Getafe CF",
+            "match_id": "130929",
+            "startTime": "10:30:00 PM 25-10-2025"
+        },
+        {
             "event_category": "Baseball",
             "match_title": "Toronto Blue Jays vs Los Angeles Dodgers (Major League Baseball, 2025)",
             "logo": "https://images.fancode.com/aig/match/v1/137807_CASACARDS_APP.png",
@@ -252,16 +262,6 @@
             "match_name": "Day 2 vs Petronas Sepang International Circuit",
             "match_id": "119264",
             "startTime": "06:40:00 AM 25-10-2025"
-        },
-        {
-            "event_category": "Football",
-            "match_title": "Athletic Club vs Getafe CF (LALIGA 2025-26)",
-            "logo": "https://www.fancode.com/skillup-uploads/cms-media/130929_5427_ATH_GEF_fc-Web.jpg",
-            "match_status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Athletic Club vs Getafe CF",
-            "match_id": "130929",
-            "startTime": "10:30:00 PM 25-10-2025"
         },
         {
             "event_category": "Golf",
@@ -372,6 +372,16 @@
             "match_name": "Qualifying vs Mexico",
             "match_id": "118479",
             "startTime": "03:00:00 AM 26-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "match_title": "Nepal vs USA (ICC CWC League 2, 2023-27)",
+            "logo": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "match_status": "UPCOMING",
+            "event_name": "ICC CWC League 2, 2023-27",
+            "match_name": "Nepal vs USA",
+            "match_id": "137251",
+            "startTime": "11:30:00 AM 26-10-2025"
         }
     ]
 }
