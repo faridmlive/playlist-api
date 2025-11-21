@@ -1,0 +1,68 @@
+name: Fetch Ayna Playlist
+
+on:
+  schedule:
+    - cron: '*/45 * * * *' 
+  workflow_dispatch:        
+
+jobs:
+  fetch-and-save:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Fetch json content with retry
+        id: fetch
+        run: |
+          max_attempts=6
+          attempt=1
+          wait_time=300  # 5 minutes in seconds
+          
+          while [ $attempt -le $max_attempts ]; do
+            echo "Attempt $attempt of $max_attempts..."
+            
+            if curl -sLf "${{ secrets.AYNA }}" -o ayna.m3u; then
+              echo "status=success" >> $GITHUB_OUTPUT
+              echo "attempt=$attempt" >> $GITHUB_OUTPUT
+              echo "Download successful on attempt $attempt"
+              break
+            else
+              echo "Download failed on attempt $attempt"
+              
+              if [ $attempt -eq $max_attempts ]; then
+                echo "status=failed" >> $GITHUB_OUTPUT
+                echo "All attempts failed"
+                exit 1
+              fi
+              
+              echo "Waiting $wait_time seconds before retry..."
+              sleep $wait_time
+              attempt=$((attempt + 1))
+            fi
+          done
+
+      - name: Commit and push if changed
+        if: steps.fetch.outputs.status == 'success'
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add ayna.m3u
+          if ! git diff-index --quiet HEAD --; then
+            git commit -m "Updated [$(TZ='Asia/Dhaka' date '+%Y-%m-%d %H:%M:%S')] (Attempt ${{ steps.fetch.outputs.attempt }})"
+            git push
+          else
+            echo "No changes detected - skipping commit"
+          fi
+
+      - name: Notify on final failure
+        if: steps.fetch.outputs.status == 'failed'
+        run: |
+          echo "All retry attempts failed to fetch the token"
+          exit 1
